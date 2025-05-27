@@ -22,7 +22,7 @@ languages:
                 subtitle: Example description
     zh-cn:
         languageName: 中文
-        title: 欢迎访问我的博客！
+        title: 哼哼哼啊啊啊啊啊啊啊啊啊啊
         weight: 2
         params:
             sidebar:
@@ -68,7 +68,7 @@ params:
 
     sidebar:
         emoji: 🚲
-        subtitle: 非常欢迎来到我的博客
+        subtitle: 你好啊非常欢迎来到我的博客
         avatar:
             enabled: true
             local: true
