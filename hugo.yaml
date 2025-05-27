@@ -56,10 +56,10 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.ico
 
     footer:
-        since: 2020
+        since: 2025
         customText:
 
     dateFormat:
@@ -68,7 +68,7 @@ params:
 
     sidebar:
         emoji: 🚲
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 非常欢迎来到我的博客
         avatar:
             enabled: true
             local: true
