@@ -1,12 +1,12 @@
 ---
 title: Test
-description: 第一个测试文章
+description: 这是一个测试文章，目前被作为图库
 date: 2025-05-27
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - Test
-    - 测试
+    - 合集
+    - 图片
 ---
 
 ## 正文测试

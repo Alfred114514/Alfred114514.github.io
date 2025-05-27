@@ -41,13 +41,13 @@
     <loc>https://example.com/post/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/test/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/p/test-chinese/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://example.com/categories/%E5%90%88%E9%9B%86/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/%E5%9B%BE%E7%89%87/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/archives/</loc>
@@ -76,6 +76,8 @@
                 hreflang="zh-cn"
                 href="https://example.com/tags/"
                 />
+  </url><url>
+    <loc>https://example.com/categories/test/</loc>
   </url><url>
     <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
   </url>
