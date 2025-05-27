@@ -22,11 +22,11 @@ languages:
                 subtitle: Example description
     zh-cn:
         languageName: 中文
-        title: 哼哼哼啊啊啊啊啊啊啊啊啊啊
+        title: Alfred114514
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
+                subtitle: 感谢来到我对博客网站，本站仍处于测试阶段
     ar:
         languageName: عربي
         languagedirection: rtl
