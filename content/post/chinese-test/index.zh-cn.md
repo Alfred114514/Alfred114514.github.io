@@ -3,7 +3,7 @@ title: Test
 description: 这是一个测试文章，目前被作为图库
 date: 2025-05-27
 slug: test-chinese
-image: helena-hertz-wWZzXlDpMog-unsplash.jpg
+image: street.jpg
 categories:
     - 合集
     - 图片
