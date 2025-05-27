@@ -26,7 +26,7 @@ languages:
         weight: 2
         params:
             sidebar:
-                subtitle: 感谢来到我对博客网站，本站仍处于测试阶段
+                subtitle: 感谢来到我的博客，本站仍处于测试阶段
     ar:
         languageName: عربي
         languagedirection: rtl
