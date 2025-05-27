@@ -23,7 +23,7 @@ categories:
 
 ![Photo by Helena Hertz on Unsplash](helena-hertz-wWZzXlDpMog-unsplash.jpg)  ![Photo by Hudai Gayiran on Unsplash](hudai-gayiran-3Od_VKcDEAA-unsplash.jpg)
 
-![这是图片描述](/images/微信图片_20250527201642.jpg)
+![这是图片描述](微信图片_20250527201642.jpg)
 
 
 相册语法来自 [Typlog](https://typlog.com/)
