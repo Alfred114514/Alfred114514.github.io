@@ -1,4 +1,3 @@
-![street](street.jpg)  
 ---
 title: Test
 description: 第一个测试文章
