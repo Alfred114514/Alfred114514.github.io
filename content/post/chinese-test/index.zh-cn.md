@@ -20,10 +20,6 @@ categories:
 
 ## 图片
 
-![Photo by Florian Klauer on Unsplash](florian-klauer-nptLmg6jqDo-unsplash.jpg)  ![Photo by Luca Bravo on Unsplash](luca-bravo-alS7ewQ41M8-unsplash.jpg) 
-
-![Photo by Helena Hertz on Unsplash](helena-hertz-wWZzXlDpMog-unsplash.jpg)  
-
 ![这是图片描述](微信图片_20250527201642.jpg) ![这是图片描述](微信图片_20250527204203.jpg)  
 ![这是图片描述](微信图片_202505272042031.jpg) ![这是图片描述](微信图片_202505272042032.jpg)  
 ![这是图片描述](微信图片_202505272042033.jpg) ![这是图片描述](微信图片_202505272042034.jpg)  
