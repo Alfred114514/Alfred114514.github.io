@@ -58,18 +58,14 @@
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;320px&#34;
 	
-&gt;  &lt;img src=&#34;https://example.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://example.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, https://example.com/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
+&gt;  &lt;img src=&#34;https://example.com/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
+	
+	
+	
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
 	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://example.com/p/test-chinese/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250527201642.jpg&#34;
