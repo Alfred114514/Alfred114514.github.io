@@ -1,7 +1,7 @@
 ---
-title: Chinese Test
-description: 这是一个副标题
-date: 2020-09-09
+title: Test
+description: 第一个测试文章
+date: 2025-05-27
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
@@ -15,12 +15,7 @@ categories:
 步骤2：尚在探索中
 ## 引用
 
-> 思念是最暖的忧伤像一双翅膀  
-> 让我停不了飞不远在过往游荡  
-> 不告而别的你 就算为了我着想  
-> 这么沉痛的呵护 我怎么能翱翔  
-> 
-> *[最暖的憂傷 - 田馥甄](https://www.youtube.com/watch?v=3aypp_YlBzI)*
+
 
 ## 图片
 
